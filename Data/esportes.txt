@@ -1,0 +1,10 @@
+1;Futebol
+2;Basquete
+3;Vôlei
+4;Tênis
+5;Natação
+6;Handebol
+7;Rugby
+8;Beisebol
+9;Atletismo
+10;Boxe

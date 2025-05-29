@@ -1,0 +1,10 @@
+1;Flamengo;1895;7;Brasileirão,Copa do Brasil;1
+2;Corinthians;1910;5;Paulistão,Libertadores;1
+3;Lakers;1947;17;NBA Finals;2
+4;Warriors;1946;7;NBA Champions;2
+5;Santos Vôlei;2010;3;Superliga,Brasileirão;3
+6;Minas Tênis;1935;10;Campeonato Mineiro,Superliga;4
+7;Natação Brasil;1920;15;Campeonato Nacional;5
+8;Handebol SP;1980;2;Campeonato Paulista;6
+9;Rugby Rio;2005;1;Campeonato Carioca;7
+10;Atletismo RJ;1925;8;Campeonato Brasileiro;9
