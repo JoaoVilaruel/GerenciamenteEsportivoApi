@@ -70,5 +70,4 @@ Sinta-se à vontade para contribuir criando issues ou pull requests.
 ---
 
 **Autor:** João Alexandre Vilaruel Dos Santos
-**Coautores:** Caio Voitena Roupa e Silvio Gabriel Felix de Souza
 📅 Projeto desenvolvido em 2025
